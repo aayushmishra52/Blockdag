@@ -1,0 +1,176 @@
+{
+  "general": [
+    {
+      "id": 1,
+      "type": "network",
+      "title": "Network Congestion Alert",
+      "message": "Network congestion is currently low. This is an optimal time for mining with potentially higher rewards.",
+      "severity": "info",
+      "timestamp": 1623457000
+    },
+    {
+      "id": 2,
+      "type": "trend",
+      "title": "Mining Trend",
+      "message": "Block production has increased by 15% in the last 24 hours, indicating growing network activity.",
+      "severity": "info",
+      "timestamp": 1623456000
+    },
+    {
+      "id": 3,
+      "type": "security",
+      "title": "Security Update",
+      "message": "A new X1 Mobile Miner firmware update is available. Updating is recommended for improved security and performance.",
+      "severity": "warning",
+      "timestamp": 1623455000
+    },
+    {
+      "id": 4,
+      "type": "reward",
+      "title": "Reward Calculation",
+      "message": "The network's reward algorithm has been optimized. Miners with higher uptime will see increased rewards.",
+      "severity": "info",
+      "timestamp": 1623454000
+    },
+    {
+      "id": 5,
+      "type": "network",
+      "title": "Network Health",
+      "message": "The BlockDAG network is operating at optimal health with 99.98% uptime over the past week.",
+      "severity": "success",
+      "timestamp": 1623453000
+    }
+  ],
+  "personalized": {
+    "0xabcdef1234567890": [
+      {
+        "id": 101,
+        "type": "performance",
+        "title": "Performance Insight",
+        "message": "You are outperforming 80% of other miners in your region. Keep up the good work!",
+        "severity": "success",
+        "timestamp": 1623457300
+      },
+      {
+        "id": 102,
+        "type": "optimization",
+        "title": "Optimization Tip",
+        "message": "Your miner's connectivity pattern suggests you could improve stability by adjusting your network settings.",
+        "severity": "info",
+        "timestamp": 1623456300
+      },
+      {
+        "id": 103,
+        "type": "reward",
+        "title": "Reward Analysis",
+        "message": "Your consistent mining has earned you a loyalty bonus of 5% additional BDAG this week.",
+        "severity": "success",
+        "timestamp": 1623455300
+      }
+    ],
+    "0x1234567890abcdef": [
+      {
+        "id": 201,
+        "type": "activity",
+        "title": "Activity Alert",
+        "message": "Your miner was inactive for 2 hours yesterday. Check your connection to ensure optimal mining.",
+        "severity": "warning",
+        "timestamp": 1623457310
+      },
+      {
+        "id": 202,
+        "type": "performance",
+        "title": "Performance Insight",
+        "message": "You're in the top 15% of miners by uptime. Your consistent operation contributes significantly to network stability.",
+        "severity": "success",
+        "timestamp": 1623456310
+      },
+      {
+        "id": 203,
+        "type": "strategy",
+        "title": "Mining Strategy",
+        "message": "Try mining during low congestion periods (typically 2-4 AM UTC) for potentially better rewards.",
+        "severity": "info",
+        "timestamp": 1623455310
+      }
+    ],
+    "0x7890abcdef123456": [
+      {
+        "id": 301,
+        "type": "connectivity",
+        "title": "Connectivity Issue",
+        "message": "Your miner has experienced frequent disconnections. Consider checking your internet stability.",
+        "severity": "warning",
+        "timestamp": 1623457120
+      },
+      {
+        "id": 302,
+        "type": "performance",
+        "title": "Performance Comparison",
+        "message": "Your mining efficiency is 15% below similar devices. A device restart might help improve performance.",
+        "severity": "warning",
+        "timestamp": 1623456120
+      },
+      {
+        "id": 303,
+        "type": "milestone",
+        "title": "Mining Milestone",
+        "message": "Congratulations! You've mined over 75 blocks since joining the network.",
+        "severity": "success",
+        "timestamp": 1623455120
+      }
+    ],
+    "0xdef1234567890abc": [
+      {
+        "id": 401,
+        "type": "achievement",
+        "title": "Top Performer",
+        "message": "Outstanding! You're currently the #1 miner in the network. Your contribution is highly valuable.",
+        "severity": "success",
+        "timestamp": 1623457000
+      },
+      {
+        "id": 402,
+        "type": "reward",
+        "title": "Reward Milestone",
+        "message": "You've earned over 1,900 BDAG tokens! You're approaching the 2,000 BDAG milestone.",
+        "severity": "success",
+        "timestamp": 1623456000
+      },
+      {
+        "id": 403,
+        "type": "strategy",
+        "title": "Advanced Strategy",
+        "message": "With your high performance, consider joining a mining pool to further stabilize your rewards.",
+        "severity": "info",
+        "timestamp": 1623455000
+      }
+    ],
+    "0x567890abcdef1234": [
+      {
+        "id": 501,
+        "type": "activity",
+        "title": "Inactivity Alert",
+        "message": "Your miner has been offline for 2 hours. Please check your device and connection.",
+        "severity": "warning",
+        "timestamp": 1623450000
+      },
+      {
+        "id": 502,
+        "type": "performance",
+        "title": "Performance Insight",
+        "message": "Your uptime of 78.4% is below the network average of 89.5%. Improving stability could increase your rewards.",
+        "severity": "warning",
+        "timestamp": 1623449000
+      },
+      {
+        "id": 503,
+        "type": "optimization",
+        "title": "Optimization Tip",
+        "message": "Based on your mining pattern, setting up a consistent schedule could improve your overall performance.",
+        "severity": "info",
+        "timestamp": 1623448000
+      }
+    ]
+  }
+}

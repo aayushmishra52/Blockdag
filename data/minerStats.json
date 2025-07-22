@@ -1,0 +1,146 @@
+{
+  "miners": [
+    {
+      "wallet": "0xabcdef1234567890",
+      "nickname": "AlphaNode",
+      "blocksMinedTotal": 142,
+      "blocksMinedLast24h": 5,
+      "uptimePercentage": 98.7,
+      "bdagEarned": 1285.42,
+      "bdagEarnedLast24h": 45.8,
+      "rank": 3,
+      "totalMiners": 1000,
+      "lastActive": 1623457300,
+      "joinDate": 1620000000,
+      "deviceType": "X1 Mobile Miner",
+      "hashPower": 42.5,
+      "networkContribution": 0.042,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "rewards": 42.1 },
+        { "date": "2023-06-02", "rewards": 38.5 },
+        { "date": "2023-06-03", "rewards": 41.2 },
+        { "date": "2023-06-04", "rewards": 39.8 },
+        { "date": "2023-06-05", "rewards": 45.8 }
+      ],
+      "activityPeriods": [
+        { "start": 1623370800, "end": 1623414000 },
+        { "start": 1623414000, "end": 1623457200 }
+      ]
+    },
+    {
+      "wallet": "0x1234567890abcdef",
+      "nickname": "BetaMiner",
+      "blocksMinedTotal": 98,
+      "blocksMinedLast24h": 4,
+      "uptimePercentage": 92.3,
+      "bdagEarned": 876.15,
+      "bdagEarnedLast24h": 36.2,
+      "rank": 12,
+      "totalMiners": 1000,
+      "lastActive": 1623457310,
+      "joinDate": 1620100000,
+      "deviceType": "X1 Mobile Miner",
+      "hashPower": 38.2,
+      "networkContribution": 0.038,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "rewards": 35.4 },
+        { "date": "2023-06-02", "rewards": 32.8 },
+        { "date": "2023-06-03", "rewards": 34.1 },
+        { "date": "2023-06-04", "rewards": 33.9 },
+        { "date": "2023-06-05", "rewards": 36.2 }
+      ],
+      "activityPeriods": [
+        { "start": 1623370800, "end": 1623414000 },
+        { "start": 1623414000, "end": 1623457200 }
+      ]
+    },
+    {
+      "wallet": "0x7890abcdef123456",
+      "nickname": "GammaValidator",
+      "blocksMinedTotal": 76,
+      "blocksMinedLast24h": 3,
+      "uptimePercentage": 85.9,
+      "bdagEarned": 684.30,
+      "bdagEarnedLast24h": 27.1,
+      "rank": 28,
+      "totalMiners": 1000,
+      "lastActive": 1623457120,
+      "joinDate": 1620200000,
+      "deviceType": "X1 Mobile Miner",
+      "hashPower": 29.7,
+      "networkContribution": 0.029,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "rewards": 26.8 },
+        { "date": "2023-06-02", "rewards": 25.3 },
+        { "date": "2023-06-03", "rewards": 26.1 },
+        { "date": "2023-06-04", "rewards": 25.9 },
+        { "date": "2023-06-05", "rewards": 27.1 }
+      ],
+      "activityPeriods": [
+        { "start": 1623370800, "end": 1623400000 },
+        { "start": 1623414000, "end": 1623457120 }
+      ]
+    },
+    {
+      "wallet": "0xdef1234567890abc",
+      "nickname": "DeltaNode",
+      "blocksMinedTotal": 215,
+      "blocksMinedLast24h": 8,
+      "uptimePercentage": 99.2,
+      "bdagEarned": 1932.68,
+      "bdagEarnedLast24h": 72.4,
+      "rank": 1,
+      "totalMiners": 1000,
+      "lastActive": 1623457000,
+      "joinDate": 1619900000,
+      "deviceType": "X1 Mobile Miner",
+      "hashPower": 65.8,
+      "networkContribution": 0.065,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "rewards": 68.5 },
+        { "date": "2023-06-02", "rewards": 70.2 },
+        { "date": "2023-06-03", "rewards": 69.8 },
+        { "date": "2023-06-04", "rewards": 71.3 },
+        { "date": "2023-06-05", "rewards": 72.4 }
+      ],
+      "activityPeriods": [
+        { "start": 1623370800, "end": 1623457000 }
+      ]
+    },
+    {
+      "wallet": "0x567890abcdef1234",
+      "nickname": "EpsilonMiner",
+      "blocksMinedTotal": 54,
+      "blocksMinedLast24h": 2,
+      "uptimePercentage": 78.4,
+      "bdagEarned": 486.12,
+      "bdagEarnedLast24h": 18.5,
+      "rank": 42,
+      "totalMiners": 1000,
+      "lastActive": 1623450000,
+      "joinDate": 1620300000,
+      "deviceType": "X1 Mobile Miner",
+      "hashPower": 21.3,
+      "networkContribution": 0.021,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "rewards": 17.2 },
+        { "date": "2023-06-02", "rewards": 16.8 },
+        { "date": "2023-06-03", "rewards": 17.5 },
+        { "date": "2023-06-04", "rewards": 18.1 },
+        { "date": "2023-06-05", "rewards": 18.5 }
+      ],
+      "activityPeriods": [
+        { "start": 1623370800, "end": 1623400000 },
+        { "start": 1623414000, "end": 1623450000 }
+      ]
+    }
+  ],
+  "networkStats": {
+    "totalMiners": 1000,
+    "activeMiners": 876,
+    "totalHashPower": 42500,
+    "averageUptimePercentage": 89.5,
+    "averageBdagPerMiner": 750.25,
+    "lastUpdated": 1623457320
+  }
+}

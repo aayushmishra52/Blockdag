@@ -1,0 +1,312 @@
+{
+  "insights": [
+    {
+      "id": "ins-001",
+      "type": "performance",
+      "severity": "high",
+      "title": "Network Congestion Detected",
+      "description": "Our AI has detected significant network congestion in the last 24 hours. This may lead to slower transaction confirmations and increased orphan blocks.",
+      "recommendation": "Miners should prioritize transactions with higher fees and consider increasing their connectivity to the network.",
+      "timestamp": 1623456789,
+      "affectedWallets": [],
+      "metrics": {
+        "congestionLevel": 85,
+        "averageConfirmationTime": 45,
+        "orphanRate": 3.2
+      }
+    },
+    {
+      "id": "ins-002",
+      "type": "security",
+      "severity": "medium",
+      "title": "Unusual Mining Pattern Detected",
+      "description": "Our AI has identified unusual mining patterns from several nodes that may indicate an attempt to gain disproportionate influence over the network.",
+      "recommendation": "Monitor these nodes closely and consider implementing additional validation checks for blocks from these sources.",
+      "timestamp": 1623456000,
+      "affectedWallets": [],
+      "metrics": {
+        "anomalyScore": 75,
+        "affectedBlocks": 12,
+        "potentialImpact": "medium"
+      }
+    },
+    {
+      "id": "ins-003",
+      "type": "optimization",
+      "severity": "low",
+      "title": "Mining Efficiency Opportunity",
+      "description": "Based on current network conditions, there is an opportunity to optimize mining strategies by focusing on specific transaction types.",
+      "recommendation": "Consider prioritizing smaller transactions with higher fees to maximize rewards while minimizing computational resources.",
+      "timestamp": 1623455000,
+      "affectedWallets": [],
+      "metrics": {
+        "potentialRewardIncrease": 8.5,
+        "resourceSavings": 12.3,
+        "implementationDifficulty": "low"
+      }
+    },
+    {
+      "id": "ins-004",
+      "type": "performance",
+      "severity": "medium",
+      "title": "Block Propagation Delay Increasing",
+      "description": "The average block propagation time has increased by 15% over the past week, potentially leading to higher orphan rates.",
+      "recommendation": "Miners should check their network connectivity and consider connecting to more peers to improve block propagation.",
+      "timestamp": 1623454000,
+      "affectedWallets": [],
+      "metrics": {
+        "propagationDelay": 2.3,
+        "networkSaturation": 68,
+        "peerConnectivity": "suboptimal"
+      }
+    },
+    {
+      "id": "ins-005",
+      "type": "security",
+      "severity": "high",
+      "title": "Potential Sybil Attack Detected",
+      "description": "Our AI has detected a pattern consistent with a Sybil attack, where multiple nodes appear to be controlled by a single entity.",
+      "recommendation": "Network validators should implement additional identity verification measures and monitor suspicious nodes.",
+      "timestamp": 1623453000,
+      "affectedWallets": [],
+      "metrics": {
+        "suspiciousNodes": 23,
+        "confidenceLevel": 89,
+        "potentialImpact": "high"
+      }
+    },
+    {
+      "id": "ins-006",
+      "type": "optimization",
+      "severity": "low",
+      "title": "Transaction Fee Strategy Update",
+      "description": "Recent changes in transaction patterns suggest an opportunity to optimize fee structures for better network efficiency.",
+      "recommendation": "Consider implementing a dynamic fee structure based on current network load and transaction priority.",
+      "timestamp": 1623452000,
+      "affectedWallets": [],
+      "metrics": {
+        "feeEfficiencyGain": 12.5,
+        "transactionThroughputIncrease": 7.8,
+        "userExperienceImprovement": "significant"
+      }
+    },
+    {
+      "id": "ins-007",
+      "type": "performance",
+      "severity": "medium",
+      "title": "Memory Pool Optimization Needed",
+      "description": "The memory pool is showing signs of inefficient transaction selection, leading to suboptimal block construction.",
+      "recommendation": "Update transaction selection algorithms to prioritize a better balance between fees and transaction size.",
+      "timestamp": 1623451000,
+      "affectedWallets": [],
+      "metrics": {
+        "memPoolEfficiency": 72,
+        "transactionWaitTime": 3.5,
+        "blockUtilization": 85
+      }
+    },
+    {
+      "id": "ins-008",
+      "type": "security",
+      "severity": "low",
+      "title": "Unusual Transaction Patterns",
+      "description": "Our AI has identified unusual transaction patterns that may indicate an attempt to analyze network behavior for potential vulnerabilities.",
+      "recommendation": "Monitor these transactions and consider implementing additional validation for similar patterns.",
+      "timestamp": 1623450000,
+      "affectedWallets": [],
+      "metrics": {
+        "anomalyScore": 65,
+        "patternFrequency": 0.5,
+        "potentialIntent": "network analysis"
+      }
+    },
+    {
+      "id": "ins-009",
+      "type": "optimization",
+      "severity": "high",
+      "title": "Critical Network Upgrade Recommended",
+      "description": "Based on current network metrics, a significant performance improvement could be achieved through a coordinated protocol upgrade.",
+      "recommendation": "Prepare for a network upgrade to implement the latest DAG optimizations and security enhancements.",
+      "timestamp": 1623449000,
+      "affectedWallets": [],
+      "metrics": {
+        "performanceGain": 35,
+        "securityEnhancement": 28,
+        "implementationComplexity": "medium"
+      }
+    },
+    {
+      "id": "ins-010",
+      "type": "performance",
+      "severity": "low",
+      "title": "Node Synchronization Improvement",
+      "description": "Several nodes are experiencing longer than normal synchronization times, potentially due to suboptimal configuration.",
+      "recommendation": "Update node configuration parameters to optimize for the current network conditions and hardware capabilities.",
+      "timestamp": 1623448000,
+      "affectedWallets": [],
+      "metrics": {
+        "syncDelay": 1.8,
+        "resourceUtilization": 92,
+        "optimizationPotential": "significant"
+      }
+    }
+  ],
+  "personalizedInsights": [
+    {
+      "id": "pins-001",
+      "walletAddress": "0xabcdef1234567890",
+      "type": "performance",
+      "severity": "high",
+      "title": "Mining Efficiency Alert",
+      "description": "Your mining operation is showing signs of decreased efficiency. Over the last 24 hours, your hash power contribution has resulted in 15% fewer blocks than expected.",
+      "recommendation": "Check your mining equipment for potential hardware issues or consider updating your mining software to the latest version.",
+      "timestamp": 1623447000,
+      "metrics": {
+        "efficiencyDrop": 15,
+        "expectedBlocks": 5.2,
+        "actualBlocks": 4.4
+      }
+    },
+    {
+      "id": "pins-002",
+      "walletAddress": "0xabcdef1234567890",
+      "type": "security",
+      "severity": "medium",
+      "title": "Unusual Login Activity",
+      "description": "We've detected login attempts to your mining account from an unusual location. While these attempts were unsuccessful, they represent a potential security concern.",
+      "recommendation": "Review your account security settings, enable two-factor authentication if not already active, and consider changing your password.",
+      "timestamp": 1623446000,
+      "metrics": {
+        "attemptCount": 3,
+        "locationAnomaly": "high",
+        "timePattern": "suspicious"
+      }
+    },
+    {
+      "id": "pins-003",
+      "walletAddress": "0xabcdef1234567890",
+      "type": "optimization",
+      "severity": "low",
+      "title": "Reward Optimization Opportunity",
+      "description": "Based on your mining patterns, you could increase your rewards by adjusting your operating schedule to align with network demand patterns.",
+      "recommendation": "Consider shifting 20% of your mining capacity to peak demand hours (2-5 PM UTC) to maximize rewards.",
+      "timestamp": 1623445000,
+      "metrics": {
+        "potentialIncrease": 8.5,
+        "implementationEffort": "low",
+        "riskLevel": "minimal"
+      }
+    },
+    {
+      "id": "pins-004",
+      "walletAddress": "0x1234567890abcdef",
+      "type": "performance",
+      "severity": "medium",
+      "title": "Network Connectivity Issue",
+      "description": "Your mining node is experiencing intermittent connectivity issues, resulting in delayed block submissions and potential orphaned blocks.",
+      "recommendation": "Check your network infrastructure for potential bottlenecks or consider upgrading your connection for more stable mining operations.",
+      "timestamp": 1623444000,
+      "metrics": {
+        "connectionDrops": 12,
+        "averageLatency": 215,
+        "packetLoss": 2.3
+      }
+    },
+    {
+      "id": "pins-005",
+      "walletAddress": "0x1234567890abcdef",
+      "type": "security",
+      "severity": "high",
+      "title": "Potential Mining Software Vulnerability",
+      "description": "The version of mining software you're using has a known security vulnerability that could potentially be exploited to compromise your mining operation.",
+      "recommendation": "Update your mining software immediately to the latest version to address this vulnerability.",
+      "timestamp": 1623443000,
+      "metrics": {
+        "vulnerabilitySeverity": "critical",
+        "exploitLikelihood": "medium",
+        "patchAvailability": "immediate"
+      }
+    },
+    {
+      "id": "pins-006",
+      "walletAddress": "0x1234567890abcdef",
+      "type": "optimization",
+      "severity": "low",
+      "title": "Hardware Utilization Improvement",
+      "description": "Our analysis indicates that your mining hardware is operating at suboptimal capacity, potentially due to configuration settings.",
+      "recommendation": "Adjust your hardware settings according to our optimization guide to improve utilization and increase mining rewards.",
+      "timestamp": 1623442000,
+      "metrics": {
+        "currentUtilization": 82,
+        "potentialUtilization": 95,
+        "rewardIncreasePotential": 15.8
+      }
+    },
+    {
+      "id": "pins-007",
+      "walletAddress": "0x7890abcdef123456",
+      "type": "performance",
+      "severity": "high",
+      "title": "Critical Performance Degradation",
+      "description": "Your mining operation has experienced a significant drop in performance over the past 12 hours, resulting in approximately 35% fewer blocks mined than expected.",
+      "recommendation": "Conduct an immediate system diagnostic to identify potential hardware failures or software issues affecting your mining performance.",
+      "timestamp": 1623441000,
+      "metrics": {
+        "performanceDrop": 35,
+        "expectedHashRate": 1200,
+        "actualHashRate": 780
+      }
+    },
+    {
+      "id": "pins-008",
+      "walletAddress": "0x7890abcdef123456",
+      "type": "security",
+      "severity": "medium",
+      "title": "Suspicious Connection Attempts",
+      "description": "Our security monitoring has detected multiple suspicious connection attempts to your mining node from unrecognized IP addresses.",
+      "recommendation": "Review your firewall settings and consider implementing IP whitelisting to restrict access to your mining infrastructure.",
+      "timestamp": 1623440000,
+      "metrics": {
+        "attemptFrequency": 5.2,
+        "sourceVariety": "high",
+        "patternRecognition": "coordinated"
+      }
+    },
+    {
+      "id": "pins-009",
+      "walletAddress": "0x7890abcdef123456",
+      "type": "optimization",
+      "severity": "medium",
+      "title": "Energy Efficiency Opportunity",
+      "description": "Based on your mining hardware profile, there is a significant opportunity to improve energy efficiency while maintaining or increasing your mining rewards.",
+      "recommendation": "Consider upgrading to more energy-efficient mining hardware or optimizing your current setup according to our efficiency guidelines.",
+      "timestamp": 1623439000,
+      "metrics": {
+        "currentEfficiency": 0.65,
+        "potentialEfficiency": 0.85,
+        "estimatedSavings": 22.5
+      }
+    },
+    {
+      "id": "pins-010",
+      "walletAddress": "0xdef1234567890abc",
+      "type": "performance",
+      "severity": "low",
+      "title": "Block Propagation Optimization",
+      "description": "Your mining node is experiencing slightly longer than average block propagation times, which could occasionally result in orphaned blocks.",
+      "recommendation": "Consider connecting to additional high-quality peers or optimizing your network configuration to improve block propagation times.",
+      "timestamp": 1623438000,
+      "metrics": {
+        "averagePropagationTime": 1.8,
+        "networkAverage": 1.2,
+        "orphanRiskIncrease": 5.3
+      }
+    }
+  ],
+  "metadata": {
+    "totalInsights": 20,
+    "generalInsights": 10,
+    "personalizedInsights": 10,
+    "lastUpdated": 1623457320
+  }
+}
