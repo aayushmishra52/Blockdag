@@ -1,0 +1,136 @@
+{
+  "miners": [
+    {
+      "wallet": "0xabcdef1234567890",
+      "nickname": "BlockMaster",
+      "blocksMined": 42,
+      "uptime": 98.5,
+      "bdagEarned": 1250.75,
+      "rank": 1,
+      "hashPower": 1250,
+      "lastActive": 1623457300,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "amount": 210.5 },
+        { "date": "2023-06-02", "amount": 195.25 },
+        { "date": "2023-06-03", "amount": 225.0 },
+        { "date": "2023-06-04", "amount": 180.75 },
+        { "date": "2023-06-05", "amount": 215.25 },
+        { "date": "2023-06-06", "amount": 224.0 }
+      ],
+      "activityPeriods": [
+        { "start": 1622505600, "end": 1622548800, "blocks": 8 },
+        { "start": 1622592000, "end": 1622635200, "blocks": 10 },
+        { "start": 1622678400, "end": 1622721600, "blocks": 12 },
+        { "start": 1622764800, "end": 1622808000, "blocks": 7 },
+        { "start": 1622851200, "end": 1622894400, "blocks": 5 }
+      ]
+    },
+    {
+      "wallet": "0x1234567890abcdef",
+      "nickname": "CryptoKing",
+      "blocksMined": 38,
+      "uptime": 97.2,
+      "bdagEarned": 1120.50,
+      "rank": 2,
+      "hashPower": 1150,
+      "lastActive": 1623457310,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "amount": 190.25 },
+        { "date": "2023-06-02", "amount": 185.5 },
+        { "date": "2023-06-03", "amount": 205.75 },
+        { "date": "2023-06-04", "amount": 170.0 },
+        { "date": "2023-06-05", "amount": 195.0 },
+        { "date": "2023-06-06", "amount": 174.0 }
+      ],
+      "activityPeriods": [
+        { "start": 1622505600, "end": 1622548800, "blocks": 7 },
+        { "start": 1622592000, "end": 1622635200, "blocks": 9 },
+        { "start": 1622678400, "end": 1622721600, "blocks": 11 },
+        { "start": 1622764800, "end": 1622808000, "blocks": 6 },
+        { "start": 1622851200, "end": 1622894400, "blocks": 5 }
+      ]
+    },
+    {
+      "wallet": "0x7890abcdef123456",
+      "nickname": "MiningPro",
+      "blocksMined": 35,
+      "uptime": 96.8,
+      "bdagEarned": 1050.25,
+      "rank": 3,
+      "hashPower": 1050,
+      "lastActive": 1623457320,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "amount": 180.0 },
+        { "date": "2023-06-02", "amount": 175.5 },
+        { "date": "2023-06-03", "amount": 195.25 },
+        { "date": "2023-06-04", "amount": 160.5 },
+        { "date": "2023-06-05", "amount": 185.0 },
+        { "date": "2023-06-06", "amount": 154.0 }
+      ],
+      "activityPeriods": [
+        { "start": 1622505600, "end": 1622548800, "blocks": 6 },
+        { "start": 1622592000, "end": 1622635200, "blocks": 8 },
+        { "start": 1622678400, "end": 1622721600, "blocks": 10 },
+        { "start": 1622764800, "end": 1622808000, "blocks": 6 },
+        { "start": 1622851200, "end": 1622894400, "blocks": 5 }
+      ]
+    },
+    {
+      "wallet": "0xdef1234567890abc",
+      "nickname": "HashMaster",
+      "blocksMined": 30,
+      "uptime": 95.5,
+      "bdagEarned": 900.50,
+      "rank": 4,
+      "hashPower": 950,
+      "lastActive": 1623457200,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "amount": 160.25 },
+        { "date": "2023-06-02", "amount": 155.0 },
+        { "date": "2023-06-03", "amount": 175.25 },
+        { "date": "2023-06-04", "amount": 140.0 },
+        { "date": "2023-06-05", "amount": 165.0 },
+        { "date": "2023-06-06", "amount": 105.0 }
+      ],
+      "activityPeriods": [
+        { "start": 1622505600, "end": 1622548800, "blocks": 5 },
+        { "start": 1622592000, "end": 1622635200, "blocks": 7 },
+        { "start": 1622678400, "end": 1622721600, "blocks": 9 },
+        { "start": 1622764800, "end": 1622808000, "blocks": 5 },
+        { "start": 1622851200, "end": 1622894400, "blocks": 4 }
+      ]
+    },
+    {
+      "wallet": "0x567890abcdef1234",
+      "nickname": "BlockChainer",
+      "blocksMined": 25,
+      "uptime": 94.2,
+      "bdagEarned": 750.25,
+      "rank": 5,
+      "hashPower": 850,
+      "lastActive": 1623457100,
+      "rewardsHistory": [
+        { "date": "2023-06-01", "amount": 140.0 },
+        { "date": "2023-06-02", "amount": 135.25 },
+        { "date": "2023-06-03", "amount": 155.0 },
+        { "date": "2023-06-04", "amount": 120.0 },
+        { "date": "2023-06-05", "amount": 145.0 },
+        { "date": "2023-06-06", "amount": 55.0 }
+      ],
+      "activityPeriods": [
+        { "start": 1622505600, "end": 1622548800, "blocks": 4 },
+        { "start": 1622592000, "end": 1622635200, "blocks": 6 },
+        { "start": 1622678400, "end": 1622721600, "blocks": 8 },
+        { "start": 1622764800, "end": 1622808000, "blocks": 4 },
+        { "start": 1622851200, "end": 1622894400, "blocks": 3 }
+      ]
+    }
+  ],
+  "networkStats": {
+    "totalMiners": 1250,
+    "activeMiners": 1180,
+    "totalHashPower": 1250000,
+    "averageUptime": 95.8,
+    "lastUpdated": 1623457320
+  }
+}
